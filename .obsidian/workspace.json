@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10_Projects/Agent_Green/green_launch_steps.md",
+                "file": "10_Projects/Agent_Green/Modes/drunk_pirate_mode.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "green_launch_steps"
+              "title": "drunk_pirate_mode"
+            }
+          },
+          {
+            "id": "2ab49ee4133b3e97",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "90_AI_Playground/10_Ninja_Turtles_Team/Bulldozer-starting-prompt.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bulldozer-starting-prompt"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10_Projects/Agent_Green/green_launch_steps.md",
+                "file": "10_Projects/Agent_Green/Modes/drunk_pirate_mode.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for green_launch_steps"
+              "title": "Backlinks for drunk_pirate_mode"
             }
           },
           {
@@ -113,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10_Projects/Agent_Green/green_launch_steps.md",
+                "file": "10_Projects/Agent_Green/Modes/drunk_pirate_mode.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from green_launch_steps"
+              "title": "Outgoing links from drunk_pirate_mode"
             }
           },
           {
@@ -142,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10_Projects/Agent_Green/green_launch_steps.md",
+                "file": "10_Projects/Agent_Green/Modes/drunk_pirate_mode.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of green_launch_steps"
+              "title": "Outline of drunk_pirate_mode"
             }
           }
         ]
@@ -160,6 +175,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -168,20 +184,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "40778a3a4754cbca",
+  "active": "2ab49ee4133b3e97",
   "lastOpenFiles": [
-    "10_Projects/Agent_Green/README_for_quicklinks.md",
+    "10_Projects/Deviation_Requests/Specs/custom-form-integration.md",
+    "90_AI_Playground/10_Ninja_Turtles_Team/Bulldozer-starting-prompt.md",
+    "90_AI_Playground/10_Ninja_Turtles_Team",
+    "00_Library_Index_README_FIRST/vault_schema.md",
+    "Welcome.md",
+    "90_AI_Playground",
+    "00_Library_Index_README_FIRST/tag_library_machine_readable.md",
+    "10_Projects/Deviation_Requests/Specs/sharepoint-column-schema.md",
+    "10_Projects/Deviation_Requests/Specs",
+    "10_Projects/Deviation_Requests",
+    "10_Projects/Untitled.md",
     "10_Projects/Agent_Green/green_launch_steps.md",
+    "10_Projects/Agent_Green/Modes/drunk_pirate_mode.md",
+    "10_Projects/Agent_Green/Modes",
+    "10_Projects/Agent_Green/README_for_quicklinks.md",
     "00_Library_Index_README_FIRST/tag_library_human_readable.md",
     "10_Projects/AI_Emergent_Behavior_Paper/Recursive Identity Persistence in LLMs Without Memory.md",
     "30_Knowledge/Playbooks/tag_management_workflow.md",
     "10_Projects/Agent_Green/json-ui chat loading to md prompt start.md",
-    "00_Library_Index_README_FIRST/vault_schema.md",
     "00_Library_Index_README_FIRST/README_FIRST.md",
     "30_Knowledge/Patterns/memory-stack-first-build.md.md",
-    "00_Library_Index_README_FIRST/tag_library_machine_readable.md",
     "10_Projects/AI_Emergent_Behavior_Paper",
-    "10_Projects/Untitled.md",
     "00_Library_Index_README_FIRST/tag_examples.md",
     "70_Assets/Cognitive_Chaos/chaos_index.md",
     "70_Assets/Cognitive_Chaos/README.md",
@@ -189,12 +215,6 @@
     "00_Library_Index_README_FIRST/tag_audit_log.md",
     "30_Knowledge/Telnet_docs",
     "30_Knowledge/Playbooks",
-    "30_Knowledge/Patterns",
-    "30_Knowledge/Tools",
-    "30_Knowledge/Domains",
-    "40_Operations/SOPs",
-    "40_Operations/Governance",
-    "40_Operations/MUA",
-    "Welcome.md"
+    "30_Knowledge/Patterns"
   ]
 }
